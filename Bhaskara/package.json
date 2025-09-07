@@ -1,0 +1,14 @@
+{
+  "name": "com.sanabios.bhaskara",
+  "version": "1.0.0",
+  "displayName": "Bhaskara",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {}
+  },
+  "dependencies": {
+    "cordova-android": "~7.1.2"
+  }
+}

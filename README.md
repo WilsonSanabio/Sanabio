@@ -1,1 +1,1 @@
-# Sanabio
+Projeto que calcula uma equação de 2º grau.

@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Bhaskara",
+  "short_name": "Bhaskara",
+  "version": "com.sanabios.bhaskara",
+  "description": "Cálculo da Equação de 2º Grau",
+  "author": "Sana/Bios Informática & Consultoria",
+  "icons": [],
+  "start_url": "index.html"
+}
